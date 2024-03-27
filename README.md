@@ -26,5 +26,8 @@ Despite significant advancements in banking technology, there remain gaps that o
 ## Future Work
 While we have made considerable progress, we acknowledge the potential for further enhancements and refinements. Our ongoing efforts will focus on addressing any identified loopholes and expanding the capabilities of our system to meet emerging challenges.
 
+## Prototype
+https://drive.google.com/file/d/1SJaRo0zrD6NeBw2HA1ZEYPOJ7lC2K85t/view?usp=drive_link
+
 ## Porject implementation:
 https://drive.google.com/file/d/1YzB_ikmVT2t2XOwHAJUqz-bSu0i6lUvn/view?usp=drive_link
